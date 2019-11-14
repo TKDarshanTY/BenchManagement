@@ -9,7 +9,7 @@ import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
 import org.hibernate.id.IdentifierGenerator;
 
-import com.tyss.benchmanage.dto.User;
+import com.tyss.benchmanagement.dto.User;
 
 public class UserIdGenerator implements IdentifierGenerator{
 

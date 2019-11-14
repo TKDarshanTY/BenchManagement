@@ -1,4 +1,4 @@
-package com.tyss.benchmanage.dto;
+package com.tyss.benchmanagement.dto;
 
 import java.util.List;
 

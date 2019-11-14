@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tyss.benchmanage.dto.User;
-import com.tyss.benchmanage.dto.UserResponse;
-import com.tyss.benchmanage.service.UserService;
+import com.tyss.benchmanagement.dto.User;
+import com.tyss.benchmanagement.dto.UserResponse;
+import com.tyss.benchmanagement.service.UserService;
 
 @RestController
 @RequestMapping("/user")

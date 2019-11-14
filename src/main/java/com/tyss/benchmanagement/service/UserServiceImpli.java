@@ -1,12 +1,12 @@
-package com.tyss.benchmanage.service;
+package com.tyss.benchmanagement.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.tyss.benchmanage.dao.UserDao;
-import com.tyss.benchmanage.dto.User;
+import com.tyss.benchmanagement.dao.UserDao;
+import com.tyss.benchmanagement.dto.User;
 
 @Service
 public class UserServiceImpli implements UserService{

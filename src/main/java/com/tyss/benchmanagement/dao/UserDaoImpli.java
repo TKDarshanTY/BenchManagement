@@ -1,4 +1,4 @@
-package com.tyss.benchmanage.dao;
+package com.tyss.benchmanagement.dao;
 
 import java.util.List;
 
@@ -10,7 +10,7 @@ import javax.persistence.Query;
 
 import org.springframework.stereotype.Repository;
 
-import com.tyss.benchmanage.dto.User;
+import com.tyss.benchmanagement.dto.User;
 
 @Repository
 public class UserDaoImpli implements UserDao{
